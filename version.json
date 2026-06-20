@@ -1,5 +1,4 @@
 {
-  version": 3,
-
-"firmware_url": "https://chakshaya300426-netizen.github.io/OTA-ESP32TEST/ble.ino.bin"
+  "version": 3,
+  "firmware_url": "https://chakshaya300426-netizen.github.io/OTA-ESP32TEST/ble.ino.bin"
 }
